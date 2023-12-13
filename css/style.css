@@ -1,0 +1,22 @@
+fieldset{
+    width: 50%;
+    background: beige;
+    margin: 20%;
+    border-radius: 60px 70px 140px 40px;
+}
+
+legend{
+    border-radius: 60px 80px 60px 80px;
+}
+
+legend{
+    font-size: 2rem;
+    background: lightblue;
+}
+form input{
+    margin-top: 1rem;
+}
+
+form input[type="submit"]:hover{
+    background: lightblue;
+}
